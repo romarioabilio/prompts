@@ -78,4 +78,4 @@ def main():
         print(f"\nOcorreu um erro: {e}")
 
 if __name__ == "__main__":
-    main() 
+    main()   

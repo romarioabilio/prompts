@@ -13,7 +13,7 @@ def call_groq(prompt_text):
     except Exception as e:
         print(f"Erro na chamada da API: {e}")
         return None
-
+ 
 def main():
     """
     Prompt Chaining para Testes de Aceitação

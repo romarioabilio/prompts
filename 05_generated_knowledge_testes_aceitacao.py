@@ -37,7 +37,7 @@ def main():
     except Exception as e:
         print(f"\nOcorreu um erro ao gerar conhecimento: {e}")
         return
-
+ 
     # PASSO 2: Aplicar o conhecimento gerado
     prompt_final = f"""
     Com base nos seguintes padrões de teste identificados:

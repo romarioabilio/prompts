@@ -44,7 +44,7 @@ def extrair_cenarios_finais(texto):
                         cenarios.append(proxima_linha)
     
     return cenarios
-
+ 
 def main():
     """
     Self-Consistency para Testes de Aceitação

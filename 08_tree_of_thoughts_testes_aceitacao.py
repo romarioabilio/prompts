@@ -94,7 +94,7 @@ def main():
     - 'Custo de Implementação' (1-5)
     - 'Tempo de Execução' (1-5)
     - 'Risco de Produção' (1-5)
-    
+     
     Ao final, indique claramente qual estratégia deve ser escolhida e por quê.
     """
     print("\n--- Passo 2: Avaliando as estratégias... ---")

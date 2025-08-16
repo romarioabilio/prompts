@@ -4,7 +4,7 @@ from groq import Groq
 client = Groq(
     api_key="",
 )
-
+ 
 def main():
     """
     Zero-Shot Prompting para Testes de Aceitação
